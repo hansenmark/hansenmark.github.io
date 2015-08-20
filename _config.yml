@@ -1,0 +1,10 @@
+# Site settings
+title: Mark Hansen - Digital Portfolio and Blog
+email: markH0120@gmail.com
+description: My online portfolio and development blog.
+url: "http://hansenmark.com" # the base hostname & protocol for your site
+paginate: 5
+
+
+# Build settings
+markdown: kramdown
